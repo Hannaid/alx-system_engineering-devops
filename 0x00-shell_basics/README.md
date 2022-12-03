@@ -1,1 +1,1 @@
-pwd shows the path to the current working directory
+ls lists files in the current directory
